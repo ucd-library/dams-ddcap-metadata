@@ -1,0 +1,57 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:VisualArtwork",
+    "schema:ImageObject",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": {
+    "@id": "http://id.worldcat.org/fast/1984649"
+  },
+  "schema:associatedMedia": {
+    "@id": "@base:/d3651d.jpg"
+  },
+  "schema:creator": "Luckenbill, Sarah",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2020"
+  },
+  "schema:description": "__Artist's Statement:__ 'I made it because I wanted people to be happier and to know that I still like them. I hope that I still have friends when this is all over.' This is a colored paper and pen drawing of a girl on the bike path in Village Homes. She is more than six feet from her grandma who she wishes she could hug. She also has remembered to wear her mask.  \n __Participant age:__ 7  \n __Category:__ Kids Age 6-8 (drawings/paintings only)",
+  "schema:identifier": [
+    "ark:/87293/d3651d",
+    "D-693"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c86116mn/"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "When this is over",
+  "schema:publisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis Library, Archives and Special Collections"
+  ],
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2021"
+  },
+  "schema:sdPublisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis, Archives and Special Collections"
+  ]
+}

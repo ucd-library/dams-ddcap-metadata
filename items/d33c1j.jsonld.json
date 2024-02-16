@@ -1,0 +1,57 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:VisualArtwork",
+    "schema:ImageObject",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": {
+    "@id": "http://id.worldcat.org/fast/1984649"
+  },
+  "schema:associatedMedia": {
+    "@id": "@base:/d33c1j.jpg"
+  },
+  "schema:creator": "Gibson, Xavier",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2020"
+  },
+  "schema:description": "__Artist's Statement:__ I have used my time over Shelter in Place to read science fiction books and write my own science fiction short stories. Some of the stories were for my distance learning and some were just for fun. I like to draw comics about outer space and think about other dimensions. This is an acrylic painting of another planet called Three Sun's. Three Sun's is sort of like our planet but it is not here it is only in my mind.  \n __Participant age:__ 9  \n __Category:__  Kids Age 9-11 (drawings/paintings only)",
+  "schema:identifier": [
+    "D-693",
+    "ark:/87293/d33c1j"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c86116mn/"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Three Sun's",
+  "schema:publisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis Library, Archives and Special Collections"
+  ],
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2021"
+  },
+  "schema:sdPublisher": [
+    "UC Davis, Archives and Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ]
+}

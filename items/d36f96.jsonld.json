@@ -1,0 +1,57 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:VisualArtwork",
+    "schema:CreativeWork",
+    "schema:ImageObject",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": {
+    "@id": "http://id.worldcat.org/fast/1984649"
+  },
+  "schema:associatedMedia": {
+    "@id": "@base:/d36f96.jpg"
+  },
+  "schema:creator": "Holland, Sara, Alexa, and Delaney",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2020"
+  },
+  "schema:description": "__Artist's Statement:__ Finding Family even in hard times...we are all Family Strong!\\  \n __Participant age:__ 42, 16, 12  \n __Category:__  Family Art (collaborative piece from members of same family)",
+  "schema:identifier": [
+    "D-693",
+    "ark:/87293/d36f96"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c86116mn/"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Family Strong",
+  "schema:publisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis Library, Archives and Special Collections"
+  ],
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2021"
+  },
+  "schema:sdPublisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis, Archives and Special Collections"
+  ]
+}

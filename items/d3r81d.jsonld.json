@@ -1,0 +1,57 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Photograph",
+    "schema:CreativeWork",
+    "schema:ImageObject",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": {
+    "@id": "http://id.worldcat.org/fast/1984649"
+  },
+  "schema:associatedMedia": {
+    "@id": "@base:/d3r81d.jpg"
+  },
+  "schema:creator": "Avila, Gabriel",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2020"
+  },
+  "schema:description": "__Artist's Statement:__ In a time of physical distancing finding peace in nature and love together is so important. Pictured here is a moment of love between siblings bonding over the mysteries of filamentous algae.  \n __Participant age:__ 35  \n __Category:__  Adult Age 15+: Photography",
+  "schema:identifier": [
+    "D-693",
+    "ark:/87293/d3r81d"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c86116mn/"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Love in Solitude",
+  "schema:publisher": [
+    "UC Davis Library, Archives and Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ],
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2021"
+  },
+  "schema:sdPublisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis, Archives and Special Collections"
+  ]
+}

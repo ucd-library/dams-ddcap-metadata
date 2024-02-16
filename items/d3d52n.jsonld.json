@@ -1,0 +1,57 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:CreativeWork",
+    "schema:Photograph",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": {
+    "@id": "http://id.worldcat.org/fast/1984649"
+  },
+  "schema:associatedMedia": {
+    "@id": "@base:/d3d52n.jpg"
+  },
+  "schema:creator": "Dawkins, Lyndsay",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2020"
+  },
+  "schema:description": "__Artist's Statement:__ As we've sheltered in place along with those little teddy bears in the windows - one sees pets of all kinds peaking out at the strange new world of walkers. So this little conyure is reminding the people of Davis to take precautions and fight the clean fight! Her name is Bodi and she is a bit of a show off so she didn't mind posing for the cause! Of course she wouldn't agree to wear a mask (not for political reasons)  \n __Participant age:__  Adult  \n __Category:__  Adult Age 15+: Photography",
+  "schema:identifier": [
+    "D-693",
+    "ark:/87293/d3d52n"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c86116mn/"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "COVID CONYURE",
+  "schema:publisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis Library, Archives and Special Collections"
+  ],
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2021"
+  },
+  "schema:sdPublisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis, Archives and Special Collections"
+  ]
+}

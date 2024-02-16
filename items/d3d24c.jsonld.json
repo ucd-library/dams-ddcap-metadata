@@ -1,0 +1,57 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Photograph",
+    "schema:ImageObject",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": {
+    "@id": "http://id.worldcat.org/fast/1984649"
+  },
+  "schema:associatedMedia": {
+    "@id": "@base:/d3d24c.jpg"
+  },
+  "schema:creator": "Jensen, Malene",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2020"
+  },
+  "schema:description": "__Artist's Statement:__ I tied masks on these statues simply as a whimsical idea--hoping to make people smile. It was never meant as a suggestion to wear masks; in fact I 'asked' the statues on April 3rd three weeks before the masking order was issued by Yolo County. I used a very old and very dirty tablecloth turned rag. The strings were shoelaces--some pulled straight out of my old running shoes. Right after the masking order took effect one mask went missing (I replaced it). I hope nobody ever wore it!  \n __Participant age:__ 54  \n __Category:__  Adult Age 15+: Photography",
+  "schema:identifier": [
+    "D-693",
+    "ark:/87293/d3d24c"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c86116mn/"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Just for Fun! An Installation.",
+  "schema:publisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis Library, Archives and Special Collections"
+  ],
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2021"
+  },
+  "schema:sdPublisher": [
+    "UC Davis, Archives and Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ]
+}

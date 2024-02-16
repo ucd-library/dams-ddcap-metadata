@@ -1,0 +1,62 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Collection",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "ucdlib:hasLabel": {
+    "@id": "@base:/labels"
+  },
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1984649"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1940193"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/0870681"
+    }
+  ],
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2020"
+  },
+  "schema:description": "The Davis Downtown Community Art Project was one of the City of Davis's more high profile responses to the COVID-19 pandemic, corralling artistic and creative responses to life in quarantine from a wide range of ages and a diversity of community members. The project took the form of a contest in the late spring and early summer of 2020 in which community members from different age groups submitted photos of artwork, creative photography, and computer-rendered images, with the winners from each age group determined by Facebook likes. The winning selections were made into post cards and stickers, to support local businesses, and several images were additionally displayed in the windows of the old \"Watermelon Music\" building and creatively wrapped the newly installed Portland Loos in the downtown business district. This digital collection includes all submitted images, capturing a community's personal, multifaceted, and often resilient responses to the COVID-19 pandemic. Several entries also reflect a commitment to social justice during the tumultuous summer of protests following the killing of George Floyd. \n\n The collection finding aid is available at [The Online Archive of California] (https://oac.cdlib.org/findaid/ark:/13030/c86116mn/).",
+  "schema:identifier": "D-693",
+  "schema:image": {
+    "@id": "info:fedora/item/ark:/87293/d33j8x/d33j8x.jpg"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Davis Downtown COVID-19 Community Art Project",
+  "schema:publisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis, Archives and Special Collections"
+  ],
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2021"
+  },
+  "schema:sdLicense": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:sdPublisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis, Archives and Special Collections"
+  ]
+}

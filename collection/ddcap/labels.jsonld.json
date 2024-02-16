@@ -1,0 +1,24 @@
+[
+  {
+    "@id": "",
+    "@context": {
+      "ucdlib": "http://digital.ucdavis.edu/schema#"
+    },
+    "@type": [
+      "ucdlib:LabelService",
+      "ucdlib:Service"
+    ]
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/0870681",
+    "http://schema.org/name": "Community arts projects"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1940193",
+    "http://schema.org/name": "Black lives matter movement"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1984649",
+    "http://schema.org/name": " COVID-19 (Disease)--Social aspects"
+  }
+]

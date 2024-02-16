@@ -1,0 +1,57 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:ImageObject",
+    "schema:CreativeWork",
+    "schema:Photograph",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": {
+    "@id": "http://id.worldcat.org/fast/1984649"
+  },
+  "schema:associatedMedia": {
+    "@id": "@base:/d3xz40.jpg"
+  },
+  "schema:creator": "Thomas, Christina",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2020"
+  },
+  "schema:description": "__Artist's Statement:__ Four year old Jace Naki'e who is Northern Paiute Western Shoshone and Hopi holds a sign that says: For the Next Seven Generations. As COVID-19 has affected people throughout the world Native American and Indigenous communities have been hit the hard. Throughout the pandemic our community has been wearing masks to protect those most sacred to us -- our elders and children. Naki'e wears a mask for the generations to come...we are always thinking of those that will come after us. It is our responsibility to take care of others and Pea Teepu (Mother Earth) for the future  \n __Participant age:__  Unkown  \n __Category:__  Adult Age 15+: Photography",
+  "schema:identifier": [
+    "ark:/87293/d3xz40",
+    "D-693"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c86116mn/"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "For the Next Seven Generations",
+  "schema:publisher": [
+    "UC Davis Library, Archives and Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ],
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2021"
+  },
+  "schema:sdPublisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis, Archives and Special Collections"
+  ]
+}
