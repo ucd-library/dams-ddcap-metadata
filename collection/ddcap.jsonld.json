@@ -32,7 +32,10 @@
     "@value": "2020"
   },
   "schema:description": "The Davis Downtown Community Art Project was one of the City of Davis's more high profile responses to the COVID-19 pandemic, corralling artistic and creative responses to life in quarantine from a wide range of ages and a diversity of community members. The project took the form of a contest in the late spring and early summer of 2020 in which community members from different age groups submitted photos of artwork, creative photography, and computer-rendered images, with the winners from each age group determined by Facebook likes. The winning selections were made into post cards and stickers, to support local businesses, and several images were additionally displayed in the windows of the old \"Watermelon Music\" building and creatively wrapped the newly installed Portland Loos in the downtown business district. This digital collection includes all submitted images, capturing a community's personal, multifaceted, and often resilient responses to the COVID-19 pandemic. Several entries also reflect a commitment to social justice during the tumultuous summer of protests following the killing of George Floyd. \n\n The collection finding aid is available at [The Online Archive of California] (https://oac.cdlib.org/findaid/ark:/13030/c86116mn/).",
-  "schema:identifier": "D-693",
+  "schema:identifier": [ 
+    "D-693",
+    "ark:/87293/d3sj19z36"
+  ],
   "schema:image": {
     "@id": "info:fedora/item/ark:/87293/d33j8x/d33j8x.jpg"
   },
